@@ -1,0 +1,2 @@
+PLM6|Canino|Calle|Lina|4|14|Miel|Hembra|Mar
+PBR8|Canino|Husky|Blue|4|20|Negro|Hembra|Ricardo
